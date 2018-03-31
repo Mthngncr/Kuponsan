@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="kupansandbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kategoriler">
+    <Key>
+      <PropertyRef Name="KategoriID" />
+    </Key>
+    <Property Name="KategoriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KatogoriAd" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kullanıcılar">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mail" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Yetki" Type="int" Nullable="false" />
+    <Property Name="FullName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kuponlar">
+    <Key>
+      <PropertyRef Name="KuponID" />
+    </Key>
+    <Property Name="KuponID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KuponAd" Type="varchar(max)" Nullable="false" />
+    <Property Name="KuponDetay" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="KuponResim" Type="image" />
+    <Property Name="Kuponİl" Type="varchar(max)" Nullable="false" />
+    <Property Name="KuponAdres" Type="varchar(max)" Nullable="false" />
+    <Property Name="KuponTarih" Type="varchar(max)" Nullable="false" />
+    <Property Name="KayıtTarih" Type="datetime" Nullable="false" />
+    <Property Name="KategoriID" Type="int" Nullable="false" />
+    <Property Name="KuponÜcret" Type="int" Nullable="false" />
+    <Property Name="Stok" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Kuponlar_Kategoriler">
+    <End Role="Kategoriler" Type="Self.Kategoriler" Multiplicity="1" />
+    <End Role="Kuponlar" Type="Self.Kuponlar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategoriler">
+        <PropertyRef Name="KategoriID" />
+      </Principal>
+      <Dependent Role="Kuponlar">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="kupansandbModelStoreContainer">
+    <EntitySet Name="Kategoriler" EntityType="Self.Kategoriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanıcılar" EntityType="Self.Kullanıcılar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kuponlar" EntityType="Self.Kuponlar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Kuponlar_Kategoriler" Association="Self.FK_Kuponlar_Kategoriler">
+      <End Role="Kategoriler" EntitySet="Kategoriler" />
+      <End Role="Kuponlar" EntitySet="Kuponlar" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

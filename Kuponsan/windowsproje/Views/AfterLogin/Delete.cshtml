@@ -1,0 +1,148 @@
+﻿@model windowsproje.Models.Kuponlar
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+<style>
+    dt {
+        clear: left;
+        float: left;
+        font-size: 12px;
+        line-height: 26px;
+        width: 70px;
+        font-weight: bold;
+    }
+
+    dd {
+        clear: right;
+        font-size: 12px;
+        line-height: 18px;
+        padding: 4px 0 4px 60px;
+    }
+</style>
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Kuponlar</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KuponAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KuponAd)
+        </dd>
+
+  
+        <dt>
+            @Html.DisplayNameFor(model => model.KuponDetay)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KuponDetay)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KuponResim)
+        </dt>
+
+        <dd>
+            @{
+                if (Model.KuponResim != null)
+                {
+                    var base64 = Convert.ToBase64String(Model.KuponResim);
+                    var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+
+
+
+                   
+
+
+                        <img src='@imgSrc' width="50" height="50" />
+
+
+                }
+                else
+                {
+                 
+
+
+
+                        <img src="~/content/img/null.png" width="50" height="50" />
+
+
+                }
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kuponİl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kuponİl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KuponAdres)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KuponAdres)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KuponTarih)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KuponTarih)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KayıtTarih)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KayıtTarih)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KuponÜcret)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KuponÜcret)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kategoriler.KatogoriAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kategoriler.KatogoriAd)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Stok)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stok)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

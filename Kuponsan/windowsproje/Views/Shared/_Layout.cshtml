@@ -1,0 +1,83 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content=""/>
+    <meta name="keywords" content="" />
+    <title>@ViewBag.Tittle</title>
+    <link href="~/content/css/style.css" rel="stylesheet" />
+    <link href="~/Content/css/PagedList.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <a href="/">                
+            <div id="logo">                
+    </div>
+            </a>
+       
+            
+            <div  id="social-media">
+                <a href="http://facebook.com" target="_blank">
+                    <div class="social">
+                        <img src="~/content/img/facebook.png" alt="facebook" />
+                    </div>
+                </a>
+                <a href="http://twitter.com" target="_blank">
+                    <div class="social">
+                        <img src="~/content/img/twitter.png" alt="twitter" />
+                    </div>
+                </a>
+                
+            </div>
+        </header>
+
+        <nav> 
+            <a href="/Restaurant"> 
+            <div class="nav-item">
+                <span> 
+                    Restaurant 
+                </span>
+            </div>
+                </a>
+            <a href="/Guzellik">
+                <div class="nav-item">
+                    <span>Güzellik</span>
+                </div>
+            </a>
+            <a href="/Alisveris">
+                <div class="nav-item">
+                    <span>Alışveriş</span>
+                </div>
+            </a>
+            <a href="/Tatil">
+            <div class="nav-item">
+                <span>Tatil</span>
+            </div>
+            </a>
+            <a href="/Sanat">
+                <div class="nav-item" style="width:192px; border-right:0;">
+
+                    <span>Sanat</span>
+                </div>
+                </a>
+
+</nav>
+        <div id="content">
+            @RenderBody()
+            
+        </div>
+        <footer>
+            <small>2017 &copy; Kuponsan  | Tüm hakları saklıdır.</small>
+        </footer>
+    </div>
+
+
+</body>
+</html>

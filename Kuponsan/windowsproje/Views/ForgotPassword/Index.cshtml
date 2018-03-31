@@ -1,0 +1,53 @@
+﻿@model windowsproje.Models.Kullanıcılar
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link rel="stylesheet" type="text/css" href="~/Content/css/ForgotPassword.css" />
+
+@using (Html.BeginForm("Index", "ForgotPassword", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+
+    if (ViewBag.Message != null)
+    {
+        <div style="border:1px solid red">
+            @ViewBag.Message
+        </div>
+    }
+    <br>
+    <br>
+
+    <h3> To reset your password enter the user name and press the "Sent a mail" button.</h3>
+    <h4> This will send you a mail with ciphers. You can enter the system using this password :) </h4>
+
+    <br /><br />
+
+    <form>
+
+        <div class="imgcontainer">
+            <img src="~/content/img/forgotPassword.jpg" alt="PhotoOfForgotPassword" class="avatar">
+        </div>
+
+        <br /><br />
+
+        <b style="margin-left:240px;"> @Html.LabelFor(a => a.Username)</b>
+        @Html.TextBoxFor(a => a.Username)
+        @Html.ValidationMessageFor(a => a.Username)
+        <br>
+
+        <br />
+
+        <input class="buton" type="submit" value="Sent A Mail"  />
+     
+        
+
+        <br /> <br />
+    </form>
+
+}

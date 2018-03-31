@@ -1,0 +1,67 @@
+﻿@using PagedList
+@using PagedList.Mvc
+@model IPagedList<windowsproje.Models.Kuponlar>
+@{
+    ViewBag.Title = "Guzellik";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var item in Model)
+{
+
+    <a href='@Url.Action("kuponDetay", "Guzellik",
+    new { id = item.KuponID })'>
+        <div id="product">
+
+            <div id="kuponAd">@Html.DisplayFor(modelItem => item.KuponAd)  </div>
+            <div id="kuponResim">
+                @{
+                    if (item.KuponResim != null)
+                    {
+                        var base64 = Convert.ToBase64String(item.KuponResim);
+                        var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+
+
+
+
+
+                        <img src='@imgSrc' style="max-height:100%; max-width:100%;" />
+
+
+                    }
+                    else
+                    {
+
+
+
+                        <img src="~/content/img/null.png" style="display:block;" width="100" height="100" />
+
+
+
+                    }
+
+
+
+                }
+            </div>
+            <div id="kuponAl">
+                @Html.DisplayFor(modelItem => item.KuponÜcret) TL
+
+            </div>
+
+        </div>
+    </a>
+
+
+
+
+
+                    }
+
+<br />
+
+<div class="pagedList">
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</div>

@@ -1,0 +1,64 @@
+﻿@model windowsproje.Models.Kullanıcılar
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="@Url.Content("~/Content/css/adminLogin.css")"
+      rel="stylesheet" type="text/css" />
+
+
+
+
+@using (Html.BeginForm("Index", "Admin", FormMethod.Post))
+{
+    //this is for create form tag
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    if (ViewBag.Message != null)
+    {
+        <div style="border:1px solid red">
+            @ViewBag.Message
+        </div>
+    }
+
+
+    <form>
+
+        <div class="imgcontainer">
+            <img src="~/content/img/adminn.png" alt="PhotoOfAdmin" class="avatar">
+        </div>
+        <br /><br />
+        <b style="margin-left:240px;"> @Html.LabelFor(a => a.Username)</b>
+        @Html.TextBoxFor(a => a.Username)
+        @Html.ValidationMessageFor(a => a.Username)
+        <br>
+
+        <br>
+
+        <b style="margin-left:240px;">@Html.LabelFor(a => a.Password)</b>
+        @Html.PasswordFor(a => a.Password)
+        @Html.ValidationMessageFor(a => a.Password)
+
+        <br>
+        <br>
+        <br />
+
+        <input class="buton" type="submit" value="Login" />      <br> <br>
+
+        <br /> <br />
+
+
+
+        <div class="container" style="background-color:#f1f1f1">
+
+            <span class="psw">@Html.ActionLink("Forgot Password?", "ForgotPassword", "Admin")</span>
+        </div>
+
+
+    </form>
+
+}
+

@@ -1,0 +1,195 @@
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\ApplicationInsights.config
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\csc.exe
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\System.Collections.Immutable.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\vbc.exe
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\VBCSCompiler.exe
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\roslyn\VBCSCompiler.exe.config
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\windowsproje.dll.config
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\windowsproje.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\windowsproje.pdb
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.Web.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.WindowsServer.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.ApplicationInsights.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.Web.Infrastructure.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Helpers.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Mvc.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Razor.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Webpages.Deployment.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Webpages.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Webpages.Razor.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.Web.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.AI.WindowsServer.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.ApplicationInsights.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Razor.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Webpages.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Webpages.Deployment.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Webpages.Razor.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Helpers.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\bin\System.Web.Mvc.xml
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\obj\Debug\windowsproje.dll
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\obj\Debug\windowsproje.pdb
+c:\users\furka\onedrive\belgeler\visual studio 2015\Projects\windowsproje\windowsproje\obj\Debug\windowsproje.csprojResolveAssemblyReference.cache
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\ApplicationInsights.config
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\csc.exe
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\vbc.exe
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\windowsproje.dll.config
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\windowsproje.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\windowsproje.pdb
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.Web.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Helpers.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Mvc.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Razor.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Webpages.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.Web.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Razor.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Webpages.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Helpers.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\bin\System.Web.Mvc.xml
+C:\Users\nuria\Desktop\windowsproje\windowsproje\obj\Debug\windowsproje.csprojResolveAssemblyReference.cache
+C:\Users\nuria\Desktop\windowsproje\windowsproje\obj\Debug\windowsproje.dll
+C:\Users\nuria\Desktop\windowsproje\windowsproje\obj\Debug\windowsproje.pdb
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\ApplicationInsights.config
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\csc.exe
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\vbc.exe
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\windowsproje.dll.config
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\windowsproje.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\windowsproje.pdb
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.Web.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Helpers.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Mvc.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Razor.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.Web.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Razor.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Helpers.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Mvc.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\obj\Debug\windowsproje.csprojResolveAssemblyReference.cache
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\obj\Debug\windowsproje.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\obj\Debug\windowsproje.pdb
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\EntityFramework.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\EntityFramework.SqlServer.dll
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\EntityFramework.xml
+C:\Users\nuria\Desktop\windowsproje - Kopya - Kopya\windowsproje\bin\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\ApplicationInsights.config
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\csc.exe
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\vbc.exe
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\windowsproje.dll.config
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\windowsproje.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\windowsproje.pdb
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\EntityFramework.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.Web.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.ApplicationInsights.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Helpers.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Mvc.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Razor.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\EntityFramework.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.Web.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.ApplicationInsights.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Razor.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Helpers.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\System.Web.Mvc.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\obj\Debug\windowsproje.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\obj\Debug\windowsproje.pdb
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\PagedList.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\PagedList.Mvc.dll
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\PagedList.xml
+C:\Users\furka\Desktop\windowsproje - Kopya\windowsproje - Kopya - Kopya\windowsproje\bin\PagedList.Mvc.xml
